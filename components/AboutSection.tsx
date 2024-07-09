@@ -39,8 +39,8 @@ const AboutSection: React.FC = () => {
             <p>
               Hi, my name is Shaneel Khatri and I am a{" "}
               <span className="font-bold">highly ambitious</span>,
-              <span className="font-bold"> self-motivated</span>, and
-              <span className="font-bold"> driven</span> in Network and Cyber Security.
+              <span className="font-bold">self-motivated</span>, and
+              <span className="font-bold">driven</span> in Network and Cyber Security.
             </p>
             <br />
             <p>
@@ -49,7 +49,7 @@ const AboutSection: React.FC = () => {
               a self-motivated student seeking for an organization where I can combine my academic knowledge of the
               Computer Sciences with the practical application of my skills and experiences. I am driven person, with a great
               attitude and have the ability to pick up skills quickly. I relish the challenge to be part of a busy team where I can
-              positively contribute towards the team's success while developing my knowledge further. 
+              positively contribute towards the team&apos;s success while developing my knowledge further. 
             </p>
             <br />
             <p>
@@ -93,7 +93,7 @@ const AboutSection: React.FC = () => {
                 <h1 className="text-2xl font-bold mb-4">Certificates</h1>
                 <ul className="list-disc list-inside">
                   <li>
-                    <Link href="/Cert1" legacyBehavior>
+                    <Link href="/ShaneelKhatri-Networks_and_Int-certificate.pdf" legacyBehavior>
                       <a target="_blank" rel="noopener noreferrer" className="text-teal-500 underline">
                         Cisco Certificate 1
                       </a>
